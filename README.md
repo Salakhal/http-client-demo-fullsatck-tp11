@@ -288,4 +288,26 @@ La bibliothèque **puissante** avec des **fonctionnalités avancées**
 
 ---
 
+ ## 🎥 Démo du Projet
+
+
+
+
+
+
+
+
+
+## 👤 Auteur
+
+* **École Normale Supérieure de Marrakech**
+  
+* **Réalisé par :** SALMA LAKHAL
+  
+* **Filière  :** CLE_INFO_S5
+
+  
+* **Encadré par :** Pr. Mohamed LACHGAR
+
+* **Cours :** `Développement web full-stack avec JavaScript
 
