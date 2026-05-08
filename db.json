@@ -1,0 +1,17 @@
+{
+  "users": [
+    { "id": 1, "name": "Alice Dupont", "email": "alice@example.com", "role": "admin" },
+    { "id": 2, "name": "Bob Martin", "email": "bob@example.com", "role": "user" },
+    { "id": 3, "name": "Charlie Durand", "email": "charlie@example.com", "role": "user" }
+  ],
+  "posts": [
+    { "id": 1, "title": "Introduction à Fetch", "author": 1, "content": "L'API Fetch est intégrée aux navigateurs modernes. Elle permet d'effectuer des requêtes HTTP de manière simple et élégante." },
+    { "id": 2, "title": "Pourquoi utiliser Axios?", "author": 1, "content": "Axios offre plusieurs avantages par rapport à Fetch : intercepteurs, annulation de requêtes, suivi de progression, et meilleure gestion des erreurs." },
+    { "id": 3, "title": "Gestion des erreurs HTTP", "author": 2, "content": "Une bonne gestion des erreurs est essentielle pour une application robuste. Il faut toujours prévoir les cas d'échec réseau et les erreurs serveur." }
+  ],
+  "comments": [
+    { "id": 1, "postId": 1, "user": 3, "text": "Article très utile, merci!" },
+    { "id": 2, "postId": 1, "user": 2, "text": "J'ai appris beaucoup de choses." },
+    { "id": 3, "postId": 2, "user": 3, "text": "Je préfère Axios pour ses intercepteurs." }
+  ]
+}
